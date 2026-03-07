@@ -30,11 +30,17 @@ and applications.
                      </p>
                 </div>
                 <div className='About-skills'>
-                    <div class="About-skill"><p>HTML</p><hr style={{width:"70%"}}/></div>
-                    <div class="About-skill"><p>CSS</p><hr style={{width:"70%"}}/></div>
-                    <div class="About-skill"><p>React JS</p><hr style={{width:"70%"}}/></div>
-                    <div class="About-skill"><p>Javascript</p><hr style={{width:"50%"}}/></div>
-                    <div class="About-skill"><p>Bootstrap</p><hr style={{width:"70%"}}/></div>
+                    <div class="About-skill"><p>HTML</p><hr style={{width:"100%"}}/></div>
+                    <div class="About-skill"><p>CSS</p><hr style={{width:"100%"}}/></div>
+                    <div class="About-skill"><p>React JS</p><hr style={{width:"90%"}}/></div>
+                    <div class="About-skill"><p>JavaScript</p><hr style={{width:"80%"}}/></div>
+                    <div class="About-skill"><p>Bootstrap</p><hr style={{width:"100%"}}/></div>
+                    <div class="About-skill"><p>Python</p><hr style={{width:"60%"}}/></div>
+                    <div class="About-skill"><p>JAVA</p><hr style={{width:"60%"}}/></div>
+                    <div class="About-skill"><p>C</p><hr style={{width:"80%"}}/></div>
+                    <div class="About-skill"><p>PHP</p><hr style={{width:"60%"}}/></div>
+                    <div class="About-skill"><p>Kotlin</p><hr style={{width:"40%"}}/></div>
+                    <div class="About-skill"><p>MY SQL</p><hr style={{width:"60%"}}/></div>
                 </div>
             </div>
 
@@ -46,7 +52,7 @@ and applications.
             </div>
               <hr/>
             <div className='About-achievement'>
-                <h1>2+</h1>
+                <h1>4+</h1>
                 <p>PROJECT COMPLETED</p>
             </div>
                <hr/>
