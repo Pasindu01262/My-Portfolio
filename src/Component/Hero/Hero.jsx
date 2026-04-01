@@ -2,6 +2,7 @@ import React from 'react'
 import "./Hero.css"
 import profile_img from "../../assets/profile_img.png"
 import AnchorLink from 'react-anchor-link-smooth-scroll'
+import CV from '../../assets/SE-intern-CV.pdf';
 
 const Hero = () => {
   return (
@@ -11,7 +12,7 @@ const Hero = () => {
 
     <div className='Hero-action'>
       <div className="Hero-connect"><AnchorLink className='anchor-link' offset={50} href='#contact'>Connect With Me</AnchorLink></div>
-      <div className="Hero-resume">My resume</div>
+      <div className="Hero-resume" onClick={() => window.open(CV)}>My resume</div>
     </div>
     </div>
 
