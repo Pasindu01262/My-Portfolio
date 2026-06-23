@@ -2,7 +2,7 @@ import React from 'react'
 import "./Hero.css"
 import profile_img from "../../assets/profile.png"
 import AnchorLink from 'react-anchor-link-smooth-scroll'
-import CV from '../../assets/pasindu Ransika CV.pdf';
+import CV from '../../assets/Pasindu Ransika CV.pdf';
 
 const Hero = () => {
   return (
