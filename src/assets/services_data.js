@@ -1,18 +1,18 @@
 const Services_Data = [
     {
         s_no:"01",
-        s_name:"Web design",
+        s_name:"UI/UX design",
         s_desc:"I design clean, responsive, and user-friendly websites that deliver a smooth and engaging experience on any device...."
     },
     {
         s_no:"02",
-        s_name:"Web development",
-        s_desc:"I create responsive, interactive, and user-friendly websites using React JS,Bootstrap,HTML,CSS and java script..."
+        s_name:"Front-end Web development",
+        s_desc:"I create responsive, interactive, and user-friendly websites using React.JS,Bootstrap,HTML,CSS and java script..."
     },
     {
         s_no:"03",
-        s_name:"App development",
-        s_desc:"build fast, user-friendly apps with smooth performance and seamless experiences...."
+        s_name:"Back-end development",
+        s_desc:"develop secure backend, APIs, and databases to ensure reliable application performance....."
     },
 
     /*

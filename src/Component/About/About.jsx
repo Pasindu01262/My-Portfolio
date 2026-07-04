@@ -17,12 +17,9 @@ const About = () => {
             <div className='About-right'>
                 <div className='About-para'>
 <p>
-Welcome to my portfolio! I am Pasindu Ransika Kossinna I am an undergraduate
-student at the University of Kelaniya, currently pursuing a degree in Information
-and Communication Technology (BICT), specializing in the Software Engineering pathway.
-My academic journey has been focused on acquiring a deep understanding of software
-development, design principles, and advanced technologies that drive modern systems
-and applications.
+Welcome to my portfolio! Software Engineering undergraduate with strong skills in front-end and back-end web development,
+experienced in building user-friendly web applications using modern technologies such as React,
+JavaScript, and Node.js. Passionate about learning new technologies and continuously improving problemsolving abilities while expanding technical knowledge.
 </p>
                      <p>
                         This portfolio showcases the projects I have developed on during my degree program, 
@@ -39,8 +36,9 @@ and applications.
                     <div class="About-skill"><p>JAVA</p><hr style={{width:"60%"}}/></div>
                     <div class="About-skill"><p>C</p><hr style={{width:"80%"}}/></div>
                     <div class="About-skill"><p>PHP</p><hr style={{width:"60%"}}/></div>
-                    <div class="About-skill"><p>Kotlin</p><hr style={{width:"40%"}}/></div>
                     <div class="About-skill"><p>MY SQL</p><hr style={{width:"60%"}}/></div>
+                    <div class="About-skill"><p>Node.js</p><hr style={{width:"50%"}}/></div>
+                    <div class="About-skill"><p>Mongo DB</p><hr style={{width:"80%"}}/></div>
                 </div>
             </div>
 
@@ -57,7 +55,7 @@ and applications.
             </div>
                <hr/>
             <div className='About-achievement'>
-                <h1>0+</h1>
+                <h1>2+</h1>
                 <p>HAPPY CLIENTS</p>
             </div>
          </div>
